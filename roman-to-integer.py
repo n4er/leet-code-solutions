@@ -9,4 +9,3 @@ class Solution(object):
                 num -= v
                 res.append(s)
         return "".join(res)
-        
